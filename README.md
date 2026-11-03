@@ -23,14 +23,15 @@
 
 ### GitHub 奖杯
 
-[![lelyetia 的 GitHub 奖杯](https://trophy.ryglcloud.net/?username=lelyetia&theme=tokyonight&column=4&margin-w=12&margin-h=12&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![lelyetia 的 GitHub 奖杯](https://github-trophies.devomb.com/?username=lelyetia&theme=tokyonight&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&margin-w=12&margin-h=12&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### GitHub 数据
 
-[![GitHub 统计与等级](https://github-readme-stats.vercel.app/api?username=lelyetia&show_icons=true&rank_icon=default&theme=tokyonight&hide_border=true&disable_animations=true&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
-[![仓库语言分布](https://github-readme-stats.vercel.app/api/top-langs/?username=lelyetia&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&disable_animations=true&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub 统计与等级](https://github-stats-extended.vercel.app/api?username=lelyetia&show_icons=true&rank_icon=default&theme=tokyonight&hide_border=true&disable_animations=true&locale=cn)](https://github.com/stats-organization/github-stats-extended)
 
-[![连续贡献记录](https://streak-stats.demolab.com/?user=lelyetia&theme=tokyonight&hide_border=true&disable_animations=true&locale=zh_Hans&timezone=Asia%2FShanghai)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![仓库语言分布](https://github-stats-extended.vercel.app/api/top-langs/?username=lelyetia&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&disable_animations=true&locale=cn)](https://github.com/stats-organization/github-stats-extended)
+
+[![连续贡献记录](https://github-readme-streak-stats-eight.vercel.app/?user=lelyetia&theme=tokyonight&hide_border=true&disable_animations=true&locale=zh_Hans&timezone=Asia%2FShanghai)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ## English
 
@@ -50,11 +51,12 @@ I welcome conversations about learning experiences and related topics.
 
 ### GitHub Trophies
 
-[![Lelyetia's GitHub trophies](https://trophy.ryglcloud.net/?username=lelyetia&theme=tokyonight&column=4&margin-w=12&margin-h=12&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![Lelyetia's GitHub trophies](https://github-trophies.devomb.com/?username=lelyetia&theme=tokyonight&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&margin-w=12&margin-h=12&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### GitHub Stats
 
-[![GitHub stats and rank](https://github-readme-stats.vercel.app/api?username=lelyetia&show_icons=true&rank_icon=default&theme=tokyonight&hide_border=true&disable_animations=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
-[![Repository languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lelyetia&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&disable_animations=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats and rank](https://github-stats-extended.vercel.app/api?username=lelyetia&show_icons=true&rank_icon=default&theme=tokyonight&hide_border=true&disable_animations=true&locale=en)](https://github.com/stats-organization/github-stats-extended)
 
-[![Contribution streak](https://streak-stats.demolab.com/?user=lelyetia&theme=tokyonight&hide_border=true&disable_animations=true&locale=en&timezone=Asia%2FShanghai)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Repository languages](https://github-stats-extended.vercel.app/api/top-langs/?username=lelyetia&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&disable_animations=true&locale=en)](https://github.com/stats-organization/github-stats-extended)
+
+[![Contribution streak](https://github-readme-streak-stats-eight.vercel.app/?user=lelyetia&theme=tokyonight&hide_border=true&disable_animations=true&locale=en&timezone=Asia%2FShanghai)](https://github.com/DenverCoder1/github-readme-streak-stats)
