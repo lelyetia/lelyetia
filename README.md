@@ -1,15 +1,15 @@
 # Lelyetia
 
-[中文](#中文) · [English](#english) · [GitHub](https://github.com/Lelyetia) · [Stars](https://github.com/Lelyetia?tab=stars) · [Email](mailto:lelyetia@gmail.com)
+[中文](#中文) · [English](#english) · [GitHub](https://github.com/lelyetia) · [Stars](https://github.com/lelyetia?tab=stars) · [Email](mailto:lelyetia@gmail.com)
 
-[![Followers](https://img.shields.io/github/followers/Lelyetia?style=flat-square&logo=github&label=Followers&color=7aa2f7)](https://github.com/Lelyetia?tab=followers)
-[![Stars](https://img.shields.io/github/stars/Lelyetia?style=flat-square&logo=github&label=Stars&color=bb9af7)](https://github.com/Lelyetia?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/lelyetia?style=flat-square&logo=github&label=Followers&color=7aa2f7)](https://github.com/lelyetia?tab=followers)
+[![Stars](https://img.shields.io/github/stars/lelyetia?style=flat-square&logo=github&label=Stars&color=bb9af7)](https://github.com/lelyetia?tab=repositories)
 
 ## 中文
 
 ### 个人介绍
 
-你好，我是 **Lelyetia**，来自中国，目前在**山东第一医科大学**攻读本科学位。
+你好，我是 **lelyetia**，来自中国，目前在**山东第一医科大学**攻读本科学位。
 
 我的研究关注**医学数据与人工智能算法的结合**，主要方向是**医学图像分割**。
 
@@ -23,20 +23,20 @@
 
 ### GitHub 奖杯
 
-[![Lelyetia 的 GitHub 奖杯](https://trophy.ryglcloud.net/?username=Lelyetia&theme=tokyonight&column=4&margin-w=12&margin-h=12&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![lelyetia 的 GitHub 奖杯](https://trophy.ryglcloud.net/?username=lelyetia&theme=tokyonight&column=4&margin-w=12&margin-h=12&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### GitHub 数据
 
-[![GitHub 统计与等级](https://github-readme-stats.vercel.app/api?username=Lelyetia&show_icons=true&rank_icon=default&theme=tokyonight&hide_border=true&disable_animations=true&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
-[![仓库语言分布](https://github-readme-stats.vercel.app/api/top-langs/?username=Lelyetia&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&disable_animations=true&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub 统计与等级](https://github-readme-stats.vercel.app/api?username=lelyetia&show_icons=true&rank_icon=default&theme=tokyonight&hide_border=true&disable_animations=true&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
+[![仓库语言分布](https://github-readme-stats.vercel.app/api/top-langs/?username=lelyetia&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&disable_animations=true&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
 
-[![连续贡献记录](https://streak-stats.demolab.com/?user=Lelyetia&theme=tokyonight&hide_border=true&disable_animations=true&locale=zh_Hans&timezone=Asia%2FShanghai)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![连续贡献记录](https://streak-stats.demolab.com/?user=lelyetia&theme=tokyonight&hide_border=true&disable_animations=true&locale=zh_Hans&timezone=Asia%2FShanghai)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ## English
 
 ### About Me
 
-Hi, I'm **Lelyetia**, from China and currently pursuing an undergraduate degree at **Shandong First Medical University**.
+Hi, I'm **lelyetia**, from China and currently pursuing an undergraduate degree at **Shandong First Medical University**.
 
 My research focuses on **combining medical data with artificial intelligence algorithms**, primarily in **medical image segmentation**.
 
@@ -50,11 +50,11 @@ I welcome conversations about learning experiences and related topics.
 
 ### GitHub Trophies
 
-[![Lelyetia's GitHub trophies](https://trophy.ryglcloud.net/?username=Lelyetia&theme=tokyonight&column=4&margin-w=12&margin-h=12&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![Lelyetia's GitHub trophies](https://trophy.ryglcloud.net/?username=lelyetia&theme=tokyonight&column=4&margin-w=12&margin-h=12&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### GitHub Stats
 
-[![GitHub stats and rank](https://github-readme-stats.vercel.app/api?username=Lelyetia&show_icons=true&rank_icon=default&theme=tokyonight&hide_border=true&disable_animations=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
-[![Repository languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lelyetia&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&disable_animations=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats and rank](https://github-readme-stats.vercel.app/api?username=lelyetia&show_icons=true&rank_icon=default&theme=tokyonight&hide_border=true&disable_animations=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
+[![Repository languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lelyetia&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&disable_animations=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Contribution streak](https://streak-stats.demolab.com/?user=Lelyetia&theme=tokyonight&hide_border=true&disable_animations=true&locale=en&timezone=Asia%2FShanghai)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Contribution streak](https://streak-stats.demolab.com/?user=lelyetia&theme=tokyonight&hide_border=true&disable_animations=true&locale=en&timezone=Asia%2FShanghai)](https://github.com/DenverCoder1/github-readme-streak-stats)
